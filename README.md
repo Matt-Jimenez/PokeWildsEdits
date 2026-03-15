@@ -1,43 +1,206 @@
 # 🎮 TacoDad — PokeWilds Save File
 
-> **Game:** PokeWilds (PC)
-> **Trainer:** TacoDad
-> **Map:** 0,0 | **Time:** Night
-> **Visited Dungeons:** Desert Ruins 1, Mansion 1
+> **Trainer:** TacoDad &nbsp;|&nbsp; **Map:** 0,0 &nbsp;|&nbsp; **Time:** Night &nbsp;|&nbsp; **Dungeons Cleared:** Desert Ruins 1, Mansion 1
 
 ---
 
-## 🌟 Current Party (All Shiny)
-
-| # | Regular | ✨ Shiny (Active) | Pokémon | Level | Gender | HP | Friendliness |
-|---|---------|------------------|---------|-------|--------|----|--------------|
-| 1 | ![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png) | ![Shiny Dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png) ✨ | **Dragonair** | 32 | ♂ Male | 0 (Fainted) | 207 |
-| 2 | ![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png) | ![Shiny Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/111.png) ✨ | **Rhyhorn** | 38 | ♀ Female | 108 | 202 |
-| 3 | ![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png) | ![Shiny Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/68.png) ✨ | **Machamp** | 28 | ♂ Male | 88 | 202 |
-| 4 | ![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png) | ![Shiny Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png) ✨ | **Venusaur** | 32 | ♀ Female | 56 | 202 |
-| 5 | ![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png) | ![Shiny Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png) ✨ | **Blissey** ⭐ | 98 | ♀ Female | 1 | 202 |
-| 6 | ![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png) | ![Shiny Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png) ✨ | **Charizard** | 100 | ♂ Male | 266 | 202 |
-
-> ⭐ = `currPokemon` (currently active/following) | ✨ = Shiny sprite reflects actual owned variant
+## 🌟 Current Party — All Shiny
 
 ---
 
-## ⚔️ Party Attacks
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
 
-| Pokémon | Move 1 | Move 2 | Move 3 | Move 4 |
-|---------|--------|--------|--------|--------|
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png) Dragonair | Wrap | Leer | Twister | Slam |
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/111.png) Rhyhorn | Horn Attack | Take Down | Fury Attack | Stomp |
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/68.png) Machamp | Low Kick | Cross Chop | Karate Chop | Seismic Toss |
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png) Venusaur | Synthesis | Razor Leaf | Vine Whip | Sleep Powder |
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png) Blissey | Seismic Toss | Softboiled | Egg Bomb | Double Edge |
-| ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png) Charizard | Fire Blast | Wing Attack | Flamethrower | Slash |
+### Dragonair &nbsp; `Lv. 32` &nbsp; ♂ Male &nbsp; ✨ Shiny
+
+**HP** &nbsp; `0 — Fainted`
+<br>
+`░░░░░░░░░░` 0%
+
+**Friendliness**
+<br>
+`█████████░` 207/255
+
+**Attacks**
+<br>
+![Normal](https://img.shields.io/badge/Wrap-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Leer-A8A878?style=flat&logoColor=white)
+![Dragon](https://img.shields.io/badge/Twister-7038F8?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Slam-A8A878?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/111.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
+
+### Rhyhorn &nbsp; `Lv. 38` &nbsp; ♀ Female &nbsp; ✨ Shiny
+
+**HP** &nbsp; `108`
+<br>
+`███████░░░` 70%
+
+**Friendliness**
+<br>
+`████████░░` 202/255
+
+**Attacks**
+<br>
+![Normal](https://img.shields.io/badge/Horn_Attack-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Take_Down-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Fury_Attack-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Stomp-A8A878?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/68.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
+
+### Machamp &nbsp; `Lv. 28` &nbsp; ♂ Male &nbsp; ✨ Shiny
+
+**HP** &nbsp; `88`
+<br>
+`████████░░` 80%
+
+**Friendliness**
+<br>
+`████████░░` 202/255
+
+**Attacks**
+<br>
+![Fighting](https://img.shields.io/badge/Low_Kick-C03028?style=flat&logoColor=white)
+![Fighting](https://img.shields.io/badge/Cross_Chop-C03028?style=flat&logoColor=white)
+![Fighting](https://img.shields.io/badge/Karate_Chop-C03028?style=flat&logoColor=white)
+![Ground](https://img.shields.io/badge/Seismic_Toss-E0C068?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
+
+### Venusaur &nbsp; `Lv. 32` &nbsp; ♀ Female &nbsp; ✨ Shiny
+
+**HP** &nbsp; `56`
+<br>
+`█████░░░░░` 50%
+
+**Friendliness**
+<br>
+`████████░░` 202/255
+
+**Attacks**
+<br>
+![Grass](https://img.shields.io/badge/Synthesis-78C850?style=flat&logoColor=white)
+![Grass](https://img.shields.io/badge/Razor_Leaf-78C850?style=flat&logoColor=white)
+![Grass](https://img.shields.io/badge/Vine_Whip-78C850?style=flat&logoColor=white)
+![Grass](https://img.shields.io/badge/Sleep_Powder-78C850?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
+
+### Blissey ⭐ &nbsp; `Lv. 98` &nbsp; ♀ Female &nbsp; ✨ Shiny
+
+> ⭐ Currently active / following
+
+**HP** &nbsp; `1 — Critical!`
+<br>
+`█░░░░░░░░░` 1%
+
+**Friendliness**
+<br>
+`████████░░` 202/255
+
+**Attacks**
+<br>
+![Fighting](https://img.shields.io/badge/Seismic_Toss-C03028?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Softboiled-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Egg_Bomb-A8A878?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Double_Edge-A8A878?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="64"/><br><sub>Regular</sub><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png" width="64"/><br><sub>✨ Shiny</sub>
+</td>
+<td>
+
+### Charizard &nbsp; `Lv. 100` &nbsp; ♂ Male &nbsp; ✨ Shiny
+
+**HP** &nbsp; `266`
+<br>
+`████████░░` 80%
+
+**Friendliness**
+<br>
+`████████░░` 202/255
+
+**Attacks**
+<br>
+![Fire](https://img.shields.io/badge/Fire_Blast-F08030?style=flat&logoColor=white)
+![Flying](https://img.shields.io/badge/Wing_Attack-98D8D8?style=flat&logoColor=white)
+![Fire](https://img.shields.io/badge/Flamethrower-F08030?style=flat&logoColor=white)
+![Normal](https://img.shields.io/badge/Slash-A8A878?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎒 Inventory
 
-### Key Items
+<details>
+<summary><b>🗝️ Key Items</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Sleeping Bag | 1 |
@@ -48,7 +211,11 @@
 | Good Rod | 1 |
 | Super Rod | 1 |
 
-### Poké Balls
+</details>
+
+<details>
+<summary><b>🔴 Poké Balls</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Poké Ball | 99,999 |
@@ -71,13 +238,18 @@
 | Nest Ball | 100 |
 | Dream Ball | 100 |
 
-### Medicine & Berries
+</details>
+
+<details>
+<summary><b>💊 Medicine & Berries</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Revive | 100 |
 | Moo Moo Milk | 100 |
 | Berry Juice | 99,999 |
 | Ragecandybar | 1,000 |
+| Big Pearl | 100 |
 | Persim Berry | 100 |
 | Aspear Berry | 100 |
 | Chesto Berry | 100 |
@@ -86,15 +258,22 @@
 | Cheri Berry | 100 |
 | Lum Berry | 99 |
 
-### Battle Items
+</details>
+
+<details>
+<summary><b>⚔️ Battle Items</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Rare Candy | 99,999 |
 | Repel | 150 |
 | Max Repel | 100 |
-| Big Pearl | 100 |
 
-### Evolution Stones
+</details>
+
+<details>
+<summary><b>🪨 Evolution Stones</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Dawn Stone | 150 |
@@ -109,7 +288,11 @@
 | Water Stone | 150 |
 | Sweet Apple | 150 |
 
-### Building & Harvested Materials
+</details>
+
+<details>
+<summary><b>🪵 Building & Harvested Materials</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Log | 99,999 |
@@ -149,9 +332,12 @@
 | Flowers | 99,999 |
 | Ancientpowder | 99,999 |
 | Fiber | 99,999 |
-| Berry Juice | 99,999 |
 
-### Apricorns
+</details>
+
+<details>
+<summary><b>🍎 Apricorns</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Black Apricorn | 102 |
@@ -162,7 +348,11 @@
 | White Apricorn | 100 |
 | Yellow Apricorn | 101 |
 
-### Fossils
+</details>
+
+<details>
+<summary><b>🦴 Fossils</b></summary>
+
 | Item | Qty |
 |------|-----|
 | Helix Fossil | 2 |
@@ -172,6 +362,8 @@
 | Root Fossil | 2 |
 | Skull Fossil | 2 |
 | Armor Fossil | 2 |
+
+</details>
 
 ---
 
@@ -190,14 +382,14 @@
 
 ---
 
-## 📁 File Info
+## 📁 How to Edit Save File
 
-| Field | Value |
-|-------|-------|
-| Save File | `TacoDad_save.json` |
-| Game File | `data.json` inside `game.json.zip` |
-| Edit Method | Open with 7-Zip, edit `data.json`, save back into zip |
+1. Open `game.json.zip` with **7-Zip** → Open Archive
+2. Navigate to and open `data.json`
+3. Replace the `itemsDict` or `pokemon` sections as needed
+4. Save the file — 7-Zip will prompt to update the archive
+5. Launch PokeWilds and load your save
 
 ---
 
-*Last updated manually. All Pokémon are shiny. Shiny sprites shown reflect actual owned variants.*
+*All Pokémon are shiny. Shiny sprite reflects actual owned variant. Last updated manually.*
