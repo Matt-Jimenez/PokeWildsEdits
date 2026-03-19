@@ -1,13 +1,14 @@
-{"players":[],"playerData":{"fieldMovePokemonIndex":-1,"character":"calem","skinColor":{"r":1.0,"g":0.80784315,"b":0.28235295,"a":1.0},"enteredDesertBiome":true,"spawnIndex":100,"position":177274384,"name":"TacoDad","pokemon":[{"exp":42353,"nickname":"dragonair","interiorIndex":100,"gender":"male","friendliness":207,"aggroPlayer":false,"test":false,"name":"dragonair","level":32,"generation":"CRYSTAL","hp":0,"isShiny":true,"attacks":["wrap","leer","twister","slam"],"index":0,"previousOwnerName":"TacoDad","position":184614896,"isInterior":false,"harvestTimer":192},{"exp":70600,"nickname":"rhyhorn","interiorIndex":100,"gender":"female","friendliness":202,"aggroPlayer":false,"test":false,"name":"rhyhorn","level":38,"generation":"CRYSTAL","hp":108,"isShiny":true,"attacks":["horn attack","take down","fury attack","stomp"],"index":0,"previousOwnerName":"TacoDad","position":183565888,"isInterior":false,"harvestTimer":1344},{"exp":19252,"nickname":"machamp","interiorIndex":100,"gender":"male","friendliness":202,"aggroPlayer":false,"test":false,"name":"machamp","level":28,"generation":"CRYSTAL","hp":88,"isShiny":true,"attacks":["low kick","cross chop","karate chop","seismic toss"],"index":0,"previousOwnerName":"TacoDad","position":212926272,"isInterior":false,"harvestTimer":9024},{"exp":29031,"nickname":"venusaur","interiorIndex":100,"gender":"female","friendliness":202,"aggroPlayer":false,"test":false,"name":"venusaur","level":32,"generation":"CRYSTAL","hp":56,"isShiny":true,"attacks":["synthesis","razor leaf","vine whip","sleep powder"],"index":0,"previousOwnerName":"TacoDad","position":213974880,"isInterior":false,"harvestTimer":1824},{"exp":37324,"nickname":"blissey","interiorIndex":100,"gender":"female","friendliness":202,"aggroPlayer":false,"test":false,"name":"blissey","level":98,"generation":"CRYSTAL","hp":1,"isShiny":true,"attacks":["seismic toss","softboiled","egg bomb","double edge"],"index":0,"previousOwnerName":"TacoDad","position":185663168,"isInterior":false,"harvestTimer":9024},{"exp":232150,"nickname":"charizard","interiorIndex":100,"gender":"male","friendliness":202,"aggroPlayer":false,"test":false,"name":"charizard","level":100,"generation":"CRYSTAL","hp":266,"isShiny":true,"attacks":["fire blast","wing attack","flamethrower","slash"],"index":0,"previousOwnerName":"TacoDad","position":168885923,"isInterior":false,"harvestTimer":0}],"currPokemon":{"exp":37324,"nickname":"blissey","interiorIndex":100,"gender":"female","friendliness":202,"aggroPlayer":false,"test":false,"name":"blissey","level":100,"generation":"CRYSTAL","hp":1,"isShiny":true,"attacks":["seismic toss","softboiled","egg bomb","double edge"],"index":0,"previousOwnerName":"TacoDad","position":185663168,"isInterior":false,"harvestTimer":9024},"itemsDict":{"revive":100,"big pearl":100,"ragecandybar":1000,"sleeping bag":1,"escape rope":1,"old rod":1,"good rod":1,"super rod":1,"poke ball":99999,"great ball":99999,"ultra ball":99999,"master ball":99996,"heavy ball":100,"lure ball":100,"friend ball":100,"love ball":100,"level ball":100,"fast ball":100,"moon ball":100,"dusk ball":100,"net ball":100,"dive ball":100,"quick ball":100,"heal ball":100,"nest ball":100,"dream ball":100,"timer ball":100,"moo moo milk":100,"persim berry":100,"aspear berry":100,"chesto berry":100,"pecha berry":100,"rawst berry":100,"cheri berry":100,"lum berry":99,"repel":150,"max repel":100,"dawn stone":150,"dusk stone":150,"fire stone":150,"ice stone":150,"leaf stone":150,"moon stone":150,"shiny stone":150,"sun stone":149,"thunder stone":150,"water stone":150,"sweet apple":150,"log":99999,"grass":99999,"miracle seed":99999,"manure":99999,"soft feather":99999,"hard shell":99999,"poison barb":99999,"magnet":99999,"charcoal":99999,"psi energy":99999,"dark energy":99999,"life force":99999,"honey":99999,"soft sand":99999,"nevermeltice":99999,"silky thread":99999,"hard stone":99999,"stardust":99999,"star piece":99999,"dragon scale":99999,"dragon fang":99999,"metal coat":99999,"soft wool":99999,"binding band":99999,"clear glass":99999,"thin paper":99999,"spell tag":99999,"dry sand":99999,"light clay":99999,"cursed soil":99999,"mystic soil":99999,"damp soil":99999,"flowers":99999,"ashen soil":99999,"berry juice":99999,"ancientpowder":99999,"fiber":99999,"silph scope":1,"poké doll":1,"rare candy":99999,"black apricorn":102,"blue apricorn":102,"green apricorn":101,"pink apricorn":103,"red apricorn":103,"white apricorn":100,"yellow apricorn":101,"helix fossil":2,"dome fossil":2,"old amber":2,"claw fossil":2,"root fossil":2,"skull fossil":2,"armor fossil":2,"dry soil":99999},"color":{"r":1.0,"g":0.0,"b":0.0,"a":1.0},"dirFacing":"left","spawnLoc":169934640,"isInterior":false,"displayedMaxPartyText":true,"isFlying":false,"flyingIndex":0},"currMapId":"0,0","timeOfDay":"night","dayTimer":2381,"alreadyUsedDungeons":["desert_ruins1","mansion1"]}
+{"players":[],"playerData":{"fieldMovePokemonIndex":-1,"character":"red","skinColor":{"r":1.0,"g":0.80784315,"b":0.28235295,"a":1.0},"enteredDesertBiome":true,"spawnIndex":100,"position":-175110720,"name":"Ash","pokemon":[{"exp":15345,"nickname":"machop","interiorIndex":100,"gender":"male","friendliness":212,"aggroPlayer":false,"test":false,"name":"machop","level":27,"generation":"CRYSTAL","hp":74,"isShiny":true,"attacks":["low kick","karate chop","seismic toss","leer"],"index":0,"previousOwnerName":"Ash","position":-165673472,"isInterior":true,"harvestTimer":1632},{"exp":82978,"nickname":"rhyhorn","interiorIndex":100,"gender":"male","friendliness":220,"aggroPlayer":false,"test":false,"name":"rhyhorn","level":40,"generation":"CRYSTAL","hp":114,"isShiny":true,"attacks":["horn attack","stomp","fury attack","take down"],"index":0,"previousOwnerName":"Ash","position":-84932464,"isInterior":false,"harvestTimer":0}],"currPokemon":{"exp":82978,"nickname":"rhyhorn","interiorIndex":100,"gender":"male","friendliness":220,"aggroPlayer":false,"test":false,"name":"rhyhorn","level":40,"generation":"CRYSTAL","hp":114,"isShiny":true,"attacks":["horn attack","stomp","fury attack","take down"],"index":0,"previousOwnerName":"Ash","position":-84932464,"isInterior":false,"harvestTimer":0},"itemsDict":{"sleeping bag":1,"escape rope":1,"old rod":1,"good rod":1,"super rod":1,"silph scope":1,"poké doll":1,"poké ball":151,"great ball":150,"ultra ball":150,"master ball":150,"heavy ball":1,"lure ball":1,"friend ball":1,"love ball":1,"level ball":1,"fast ball":1,"moon ball":1,"quick ball":1,"dusk ball":1,"net ball":1,"dive ball":1,"timer ball":1,"heal ball":1,"nest ball":1,"dream ball":1,"revive":1,"max revive":1,"ragecandybar":1,"rare candy":1,"berry juice":1,"moomoo milk":1,"repel":1,"max repel":1,"lum berry":500,"pecha berry":500,"cheri berry":500,"aspear berry":500,"chesto berry":500,"rawst berry":500,"persim berry":504,"berry seed":477,"dawn stone":500,"dusk stone":500,"fire stone":500,"ice stone":500,"leaf stone":500,"moon stone":500,"shiny stone":500,"sun stone":500,"thunderstone":500,"water stone":500,"sweet apple":500,"black apricorn":500,"blue apricorn":500,"green apricorn":500,"pink apricorn":500,"red apricorn":500,"white apricorn":500,"yellow apricorn":500,"helix fossil":2,"dome fossil":2,"old amber":2,"claw fossil":2,"root fossil":2,"shield fossil":2,"skull fossil":2,"log":10000,"grass":10000,"hard stone":10000,"soft sand":10000,"clear glass":10000,"cursed soil":10000,"mystic soil":10000,"damp soil":10000,"dry soil":10000,"ashen soil":10000,"dry sand":10000,"light clay":10000,"flowers":10000,"soft bedding":10000,"thin paper":10000,"miracle seed":10000,"manure":10000,"soft feather":10000,"hard shell":10000,"poison barb":10000,"magnet":10000,"charcoal":10000,"psi energy":10000,"dark energy":10000,"life force":10000,"honey":10000,"nevermeltice":10000,"silky thread":10000,"stardust":10000,"star piece":10000,"dragon scale":10000,"dragon fang":10000,"metal coat":10000,"soft wool":10000,"binding band":10000,"spell tag":10000,"ancientpowder":10000,"fiber":10000,"big pearl":10000},"color":{"r":0.0,"g":0.5,"b":0.5,"a":1.0},"dirFacing":"left","spawnLoc":-161479184,"isInterior":false,"displayedMaxPartyText":true,"isFlying":false,"flyingIndex":0},"currMapId":"0,0","timeOfDay":"day","dayTimer":16132,"alreadyUsedDungeons":["desert_ruins1","mansion1"]}
+
 
 ### The above is the original file we can copy/mod to replace into the game.
 ### Below it the "Beautified" verion to make things are les purplexed:
 
-  {
+{
   "players": [],
   "playerData": {
     "fieldMovePokemonIndex": -1,
-    "character": "calem",
+    "character": "red",
     "skinColor": {
       "r": 1.0,
       "g": 0.80784315,
@@ -16,376 +17,193 @@
     },
     "enteredDesertBiome": true,
     "spawnIndex": 100,
-    "position": 177274384,
-    "name": "TacoDad",
+    "position": -175110720,
+    "name": "Ash",
     "pokemon": [
       {
-        "exp": 42353,
-        "nickname": "dragonair",
+        "exp": 15345,
+        "nickname": "machop",
         "interiorIndex": 100,
         "gender": "male",
-        "friendliness": 207,
+        "friendliness": 212,
         "aggroPlayer": false,
         "test": false,
-        "name": "dragonair",
-        "level": 32,
+        "name": "machop",
+        "level": 27,
         "generation": "CRYSTAL",
-        "hp": 0,
+        "hp": 74,
         "isShiny": true,
-        "attacks": ["wrap", "leer", "twister", "slam"],
+        "attacks": ["low kick", "karate chop", "seismic toss", "leer"],
         "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 184614896,
-        "isInterior": false,
-        "harvestTimer": 192
+        "previousOwnerName": "Ash",
+        "position": -165673472,
+        "isInterior": true,
+        "harvestTimer": 1632
       },
       {
-        "exp": 70600,
+        "exp": 82978,
         "nickname": "rhyhorn",
         "interiorIndex": 100,
-        "gender": "female",
-        "friendliness": 202,
+        "gender": "male",
+        "friendliness": 220,
         "aggroPlayer": false,
         "test": false,
         "name": "rhyhorn",
-        "level": 38,
+        "level": 40,
         "generation": "CRYSTAL",
-        "hp": 108,
+        "hp": 114,
         "isShiny": true,
-        "attacks": ["horn attack", "take down", "fury attack", "stomp"],
+        "attacks": ["horn attack", "stomp", "fury attack", "take down"],
         "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 183565888,
-        "isInterior": false,
-        "harvestTimer": 1344
-      },
-      {
-        "exp": 19252,
-        "nickname": "machamp",
-        "interiorIndex": 100,
-        "gender": "male",
-        "friendliness": 202,
-        "aggroPlayer": false,
-        "test": false,
-        "name": "machamp",
-        "level": 28,
-        "generation": "CRYSTAL",
-        "hp": 88,
-        "isShiny": true,
-        "attacks": ["low kick", "cross chop", "karate chop", "seismic toss"],
-        "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 212926272,
-        "isInterior": false,
-        "harvestTimer": 9024
-      },
-      {
-        "exp": 29031,
-        "nickname": "venusaur",
-        "interiorIndex": 100,
-        "gender": "female",
-        "friendliness": 202,
-        "aggroPlayer": false,
-        "test": false,
-        "name": "venusaur",
-        "level": 32,
-        "generation": "CRYSTAL",
-        "hp": 56,
-        "isShiny": true,
-        "attacks": ["synthesis", "razor leaf", "vine whip", "sleep powder"],
-        "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 213974880,
-        "isInterior": false,
-        "harvestTimer": 1824
-      },
-      {
-        "exp": 37324,
-        "nickname": "blissey",
-        "interiorIndex": 100,
-        "gender": "female",
-        "friendliness": 202,
-        "aggroPlayer": false,
-        "test": false,
-        "name": "blissey",
-        "level": 98,
-        "generation": "CRYSTAL",
-        "hp": 1,
-        "isShiny": true,
-        "attacks": ["seismic toss", "softboiled", "egg bomb", "double edge"],
-        "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 185663168,
-        "isInterior": false,
-        "harvestTimer": 9024
-      },
-      {
-        "exp": 232150,
-        "nickname": "charizard",
-        "interiorIndex": 100,
-        "gender": "male",
-        "friendliness": 202,
-        "aggroPlayer": false,
-        "test": false,
-        "name": "charizard",
-        "level": 100,
-        "generation": "CRYSTAL",
-        "hp": 266,
-        "isShiny": true,
-        "attacks": ["fire blast", "wing attack", "flamethrower", "slash"],
-        "index": 0,
-        "previousOwnerName": "TacoDad",
-        "position": 168885923,
+        "previousOwnerName": "Ash",
+        "position": -84932464,
         "isInterior": false,
         "harvestTimer": 0
       }
     ],
     "currPokemon": {
-      "exp": 37324,
-      "nickname": "blissey",
+      "exp": 82978,
+      "nickname": "rhyhorn",
       "interiorIndex": 100,
-      "gender": "female",
-      "friendliness": 202,
+      "gender": "male",
+      "friendliness": 220,
       "aggroPlayer": false,
       "test": false,
-      "name": "blissey",
-      "level": 100,
+      "name": "rhyhorn",
+      "level": 40,
       "generation": "CRYSTAL",
-      "hp": 1,
+      "hp": 114,
       "isShiny": true,
-      "attacks": ["seismic toss", "softboiled", "egg bomb", "double edge"],
+      "attacks": ["horn attack", "stomp", "fury attack", "take down"],
       "index": 0,
-      "previousOwnerName": "TacoDad",
-      "position": 185663168,
+      "previousOwnerName": "Ash",
+      "position": -84932464,
       "isInterior": false,
-      "harvestTimer": 9024
+      "harvestTimer": 0
     },
     "itemsDict": {
-      "revive": 100,
-      "big pearl": 100,
-      "ragecandybar": 1000,
-      "sleeping bag": 1,
-      "escape rope": 1,
-      "old rod": 1,
-      "good rod": 1,
-      "super rod": 1,
-      "poke ball": 99999,
-      "great ball": 99999,
-      "ultra ball": 99999,
-      "master ball": 99996,
-      "heavy ball": 100,
-      "lure ball": 100,
-      "friend ball": 100,
-      "love ball": 100,
-      "level ball": 100,
-      "fast ball": 100,
-      "moon ball": 100,
-      "dusk ball": 100,
-      "net ball": 100,
-      "dive ball": 100,
-      "quick ball": 100,
-      "heal ball": 100,
-      "nest ball": 100,
-      "dream ball": 100,
-      "timer ball": 100,
-      "moo moo milk": 100,
-      "persim berry": 100,
-      "aspear berry": 100,
-      "chesto berry": 100,
-      "pecha berry": 100,
-      "rawst berry": 100,
-      "cheri berry": 100,
-      "lum berry": 99,
-      "repel": 150,
-      "max repel": 100,
-      "dawn stone": 150,
-      "dusk stone": 150,
-      "fire stone": 150,
-      "ice stone": 150,
-      "leaf stone": 150,
-      "moon stone": 150,
-      "shiny stone": 150,
-      "sun stone": 149,
-      "thunder stone": 150,
-      "water stone": 150,
-      "sweet apple": 150,
-      "log": 99999,
-      "grass": 99999,
-      "miracle seed": 99999,
-      "manure": 99999,
-      "soft feather": 99999,
-      "hard shell": 99999,
-      "poison barb": 99999,
-      "magnet": 99999,
-      "charcoal": 99999,
-      "psi energy": 99999,
-      "dark energy": 99999,
-      "life force": 99999,
-      "honey": 99999,
-      "soft sand": 99999,
-      "nevermeltice": 99999,
-      "silky thread": 99999,
-      "hard stone": 99999,
-      "stardust": 99999,
-      "star piece": 99999,
-      "dragon scale": 99999,
-      "dragon fang": 99999,
-      "metal coat": 99999,
-      "soft wool": 99999,
-      "binding band": 99999,
-      "clear glass": 99999,
-      "thin paper": 99999,
-      "spell tag": 99999,
-      "dry sand": 99999,
-      "light clay": 99999,
-      "cursed soil": 99999,
-      "mystic soil": 99999,
-      "damp soil": 99999,
-      "flowers": 99999,
-      "ashen soil": 99999,
-      "berry juice": 99999,
-      "ancientpowder": 99999,
-      "fiber": 99999,
-      "silph scope": 1,
-      "poké doll": 1,
-      "rare candy": 99999,
-      "black apricorn": 102,
-      "blue apricorn": 102,
-      "green apricorn": 101,
-      "pink apricorn": 103,
-      "red apricorn": 103,
-      "white apricorn": 100,
-      "yellow apricorn": 101,
-      "helix fossil": 2,
-      "dome fossil": 2,
-      "old amber": 2,
-      "claw fossil": 2,
-      "root fossil": 2,
-      "skull fossil": 2,
-      "armor fossil": 2,
-      "dry soil": 99999
+      "sleeping bag":1,
+      "escape rope":1,
+      "old rod":1,
+      "good rod":1,
+      "super rod":1,
+      "silph scope":1,
+      "poké doll":1,
+      "poké ball":151,
+      "great ball":150,
+      "ultra ball":150,
+      "master ball":150,
+      "heavy ball":1,
+      "lure ball":1,
+      "friend ball":1,
+      "love ball":1,
+      "level ball":1,
+      "fast ball":1,
+      "moon ball":1,
+      "quick ball":1,
+      "dusk ball":1,
+      "net ball":1,
+      "dive ball":1,
+      "timer ball":1,
+      "heal ball":1,
+      "nest ball":1,
+      "dream ball":1,
+      "revive":1,
+      "max revive":1,
+      "ragecandybar":1,
+      "rare candy":1,
+      "berry juice":1,
+      "moomoo milk":1,
+      "repel":1,
+      "max repel":1,
+      "lum berry":500,
+      "pecha berry":500,
+      "cheri berry":500,
+      "aspear berry":500,
+      "chesto berry":500,
+      "rawst berry":500,
+      "persim berry":504,
+      "berry seed":477,
+      "dawn stone":500,
+      "dusk stone":500,
+      "fire stone":500,
+      "ice stone":500,
+      "leaf stone":500,
+      "moon stone":500,
+      "shiny stone":500,
+      "sun stone":500,
+      "thunderstone":500,
+      "water stone":500,
+      "sweet apple":500,
+      "black apricorn":500,
+      "blue apricorn":500,
+      "green apricorn":500,
+      "pink apricorn":500,
+      "red apricorn":500,
+      "white apricorn":500,
+      "yellow apricorn":500,
+      "helix fossil":2,
+      "dome fossil":2,
+      "old amber":2,
+      "claw fossil":2,
+      "root fossil":2,
+      "shield fossil":2,
+      "skull fossil":2,
+      "log":10000,
+      "grass":10000,
+      "hard stone":10000,
+      "soft sand":10000,
+      "clear glass":10000,
+      "cursed soil":10000,
+      "mystic soil":10000,
+      "damp soil":10000,
+      "dry soil":10000,
+      "ashen soil":10000,
+      "dry sand":10000,
+      "light clay":10000,
+      "flowers":10000,
+      "soft bedding":10000,
+      "thin paper":10000,
+      "miracle seed":10000,
+      "manure":10000,
+      "soft feather":10000,
+      "hard shell":10000,
+      "poison barb":10000,
+      "magnet":10000,
+      "charcoal":10000,
+      "psi energy":10000,
+      "dark energy":10000,
+      "life force":10000,
+      "honey":10000,
+      "nevermeltice":10000,
+      "silky thread":10000,
+      "stardust":10000,
+      "star piece":10000,
+      "dragon scale":10000,
+      "dragon fang":10000,
+      "metal coat":10000,
+      "soft wool":10000,
+      "binding band":10000,
+      "spell tag":10000,
+      "ancientpowder":10000,
+      "fiber":10000,
+      "big pearl":10000
     },
     "color": {
-      "r": 1.0,
-      "g": 0.0,
-      "b": 0.0,
+      "r": 0.0,
+      "g": 0.5,
+      "b": 0.5,
       "a": 1.0
     },
     "dirFacing": "left",
-    "spawnLoc": 169934640,
+    "spawnLoc": -161479184,
     "isInterior": false,
     "displayedMaxPartyText": true,
     "isFlying": false,
     "flyingIndex": 0
   },
   "currMapId": "0,0",
-  "timeOfDay": "night",
-  "dayTimer": 2381,
+  "timeOfDay": "day",
+  "dayTimer": 16132,
   "alreadyUsedDungeons": ["desert_ruins1", "mansion1"]
 }
-log=A sturdy LOG.
-grass=Freshly cut GRASS.
-dry_sand=Hot, dry sand from the desert.
-light_clay=Soft clay from the mountains.
-flowers=Small, beautiful flowers.
-cursed_soil=Soil taken from a graveyard.
-ashen_soil=Soil found near a volcano.
-dry_soil=Dry soil from the savannah.
-manure=A smelly fertilizer.
-psi_energy=An energy exuded by PSYCHIC types.
-star_piece=A sparkling gem.
-dark_energy=An energy exuded by DARK types.
-life_force=An energy exuded by GHOST types.
-ancientpowder=A mysterious and rare powder.
-honey=A sweet and sticky treat.
-soft_wool=Thick, fluffy wool.
-magnet=A small but powerful magnet.
-nevermeltice=A special ice that doesn» melt.
-dragon_scale=A scale from a DRAGON type.
-dragon_fang=A fang from a DRAGON type.
-stardust=A sparkling  powder.
-binding_band=A durable band.
-metal_coat=A coat shed by STEEL types.
-soft_sand=Soft, light sand from the beach.
-poison_barb=A small, poisonous barb.
-miracle_seed=Can be planted to grow GRASS.
-charcoal=Wood burned by a FIRE type.
-hard_stone=A durable rock.
-soft_feather=A stray feather from a FLYING type
-hard_shell=Fragments of a WATER type« shell.
-silky_thread=Delicate thread from a BUG type.
-mystic_soil=Soil from the Forest.
-damp_soil=Soil from the Lake.
-thin_paper=A soft paper good for making posters
-soft_bedding=For a comfy bed and faster healing
-clear_glass=Clear, delicate glass.
-big_pearl=A big, beautiful pearl.
-spell_tag=A sinister, eerie tag.
-lum_berry=Cures <> of STATUS EFFECTS.
-pecha_berry=Cures <> of POISON.
-cheri_berry=Cures <> of PARALYSIS.
-aspear_berry=Cures <> of FREEZE.
-chesto_berry=Cures <> of SLEEP.
-rawst_berry=Cures <> of BURN.
-persim_berry=Cures <> of CONFUSION.
-poke_ball=A tool for catching POKéMON.
-great_ball=A good tool for catching POKéMON.
-ultra_ball=An excellent tool for catching <>.
-love_ball=Catch <> of the opposite gender.
-fast_ball=Most effective on fast POKéMON.
-lure_ball=Most effective while fishing.
-moon_ball=For <> that evolve by Moon Stone.
-friend_ball=A ball that raises FRIENDSHIP.
-heavy_ball=Most effective on heavy POKéMON.
-master_ball=The best BALL. It never misses.
-dusk_ball=Most effective in dark areas.
-net_ball=Best for BUG and WATER type <>.
-dive_ball=Catch POKéMON underwater.
-quick_ball=Best when used at start of encounter
-heal_ball=Heals POKéMON it contains.
-nest_ball=Most effective on weaker POKéMON.
-dream_ball=Catch sleeping POKéMON.
-timer_ball=Most effective in a longer battle.
-level_ball=Most effective on low-level POKéMON.
-old_amber=Amber containing DNA of ancient <>.
-helix_fossil=A fossil of an ancient POKéMON.
-dome_fossil=A fossil of an ancient POKéMON.
-claw_fossil=A fossil of an ancient POKéMON.
-root_fossil=A fossil of an ancient POKéMON.
-shield_fossil=A fossil of an ancient POKéMON.
-skull_fossil=A fossil of an ancient POKéMON.
-black_apricorn=A black APRICORN.
-blue_apricorn=A blue APRICORN.
-green_apricorn=A green APRICORN.
-pink_apricorn=A pink APRICORN.
-red_apricorn=A red APRICORN.
-white_apricorn=A white APRICORN.
-yellow_apricorn=A yellow APRICORN.
-sweet_apple=Can evolve certain POKéMON.
-water_stone=Can evolve certain POKéMON.
-fire_stone=Can evolve certain POKéMON.
-leaf_stone=Can evolve certain POKéMON.
-thunderstone=Can evolve certain POKéMON.
-moon_stone=Can evolve certain POKéMON.
-sun_stone=Can evolve certain POKéMON.
-ice_stone=Can evolve certain POKéMON.
-dawn_stone=Can evolve certain POKéMON.
-dusk_stone=Can evolve certain POKéMON.
-shiny_stone=Can evolve certain POKéMON.
-berry_juice=A healing drink that restores HP.
-moomoo_milk=A nutritious drink that restores HP.
-max_repel=A spray that repels weak POKéMON.
-repel=A spray that repels weak POKéMON.
-ragecandybar=A candy bar that can restore HP.
-rare_candy=Raises a POKéMON« level by 1.
-revive=Restores a fainted <> to half hp.
-max_revive=Fully restores a fainted <>.
-berry_seed=Can be planted to grow BERRIES.
-poke_doll=A cute plushie.
-silph_scope=An item that identifies ghosts.
-old_rod=Use by water to fish for POKéMON.
-good_rod=Use by water to fish for POKéMON.
-super_rod=Use by water to fish for POKéMON.
-escape_rope=Takes you to a nearby shore.
-sleeping_bag=Slowly restores party HP.
-secret_key=A mysterious key.
